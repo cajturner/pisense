@@ -1,9 +1,2 @@
 # pisense
-# pisense
-# pisense
-# pisense
-# pisense
-# pisense
-# pisense
-# pisense
-# pisense
+This is for my Raspberry Pi
